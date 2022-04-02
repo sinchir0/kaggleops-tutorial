@@ -1,5 +1,5 @@
 experiment_name  : "RoBERTaBase kaggle check"
-bucket_name      : "kaggleops-bucket"
+bucket_name      : "kaggleops-storage"
 git_uri          : "https://github.com/sinchir0/kaggleops-tutorial.git"
 
 
